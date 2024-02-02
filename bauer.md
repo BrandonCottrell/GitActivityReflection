@@ -1,6 +1,6 @@
 My name is Kathy Bauer!
 
-My favorite color is purple.
+My favorite color is purple. -Not mine
 
 My favorite class is not this one.
 
