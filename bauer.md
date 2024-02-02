@@ -1,0 +1,7 @@
+My name is Kathy Bauer
+
+My favorite color is not purple.
+
+My favorite class is not this one.
+
+I do think coding is fun.  Usually.  Sometimes.
